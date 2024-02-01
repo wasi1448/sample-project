@@ -1,8 +1,8 @@
-
-import Home from './assets/components/Home/home'
 import './App.css'
-import About from './assets/components/Home/About/about'
-import Shop from './assets/components/Home/Shop/shop'
+import Home from './assets/components/Home/home';
+import About from './assets/components/Home/About/about';
+import Shop from './assets/components/Home/Shop/shop';
+import Blog from './assets/components/Home/Blog/blog';
 function App() {
  
 
@@ -11,6 +11,7 @@ function App() {
       <About/>
      <Home/>
      <Shop/>
+     <Blog/>
     </>
   )
 }

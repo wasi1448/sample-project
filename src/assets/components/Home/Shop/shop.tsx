@@ -8,7 +8,7 @@ function Shop(){
         
         <div className='shop'>
             <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa ad dicta consequuntur eveniet nihil! Animi odio eligendi officiis voluptates? Repellendus dolor iusto a accusantium voluptatum, numquam eius necessitatibus reiciendis esse.
+                please create a function.
                 wasi shah
             </p>
         </div>
