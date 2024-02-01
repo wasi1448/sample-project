@@ -4,6 +4,7 @@ import About from './assets/components/Home/About/about';
 import Shop from './assets/components/Home/Shop/shop';
 import Blog from './assets/components/Home/Blog/blog';
 import Contact from './assets/components/Home/Contact/contact';
+import GitHub from './git';
 function App() {
  
 
@@ -14,6 +15,7 @@ function App() {
      <Shop/>
      <Blog/>
      <Contact/>
+     <GitHub/>
     </>
   )
 }
