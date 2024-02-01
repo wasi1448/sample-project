@@ -6,7 +6,7 @@ function Blog(){
     return(
         <>
         <div>
-            <p>wassi shah</p>
+            <p>wassi abbas</p>
         </div>
         
         </>
